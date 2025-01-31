@@ -30,10 +30,6 @@ As I continue learning, I aim to improve this project by:
 ## How to Use
 To run this notebook, simply open `Grades.ipynb` in a Jupyter notebook or a compatible environment like Google Colab. You'll need to ensure you have the necessary dependencies, such as PyTorch, installed to run the model and see predictions.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 *Note: This project is part of my learning journey. I'm constantly improving my skills in machine learning, and this notebook represents one step forward in that process.*
  
