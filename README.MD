@@ -1,35 +1,17 @@
-# Machine Learning - Grades Prediction
+# Meu Repositório de Aprendizados em Machine Learning
 
-This repository contains my ongoing learning journey in Machine Learning. The notebook `Grades.ipynb` is part of my exploration into supervised learning, specifically focused on **predicting student grades** based on various input features.
+Bem-vindo ao meu repositório! Aqui compartilho os projetos e estudos que estou realizando no campo de Machine Learning e Deep Learning. O objetivo deste repositório é registrar meu progresso e ajudar outros a aprenderem junto.
 
-## Objective
-The main goal of this project is to create a machine learning model that predicts a student's grade based on various factors. This is an introductory project designed to help me understand and practice the fundamentals of machine learning, including data manipulation, model training, and evaluation.
+## Projetos
 
-## Project Description
-- **Notebook Name**: `Grades.ipynb`
-- **Framework**: PyTorch
-- **Dataset**: Simulated dataset with student data.
-- **Target Variable**: Student's grade (numeric value).
-- **Techniques Used**:
-  - Data preprocessing
-  - Building a neural network model
-  - Training and evaluation
+- **Detector de Fake News**: Um projeto baseado em PyTorch para detectar notícias falsas usando técnicas de deep learning.
+- **Classificação de Imagens**: Estudo de redes neurais para a classificação de imagens.
+- **Análise de Dados e Previsões**: Projetos voltados para a análise e previsões de dados.
 
-## Learning Progress
-I am currently learning the basics of machine learning, and this notebook is an experiment to apply concepts such as:
-- Data loading and preprocessing
-- Model training using PyTorch
-- Basic evaluation metrics (e.g., mean squared error)
+## Como Executar os Projetos
 
-## Future Improvements
-As I continue learning, I aim to improve this project by:
-- Using more advanced techniques for model evaluation
-- Expanding the dataset for better accuracy
-- Trying different types of machine learning models (e.g., regression, decision trees)
+Para rodar os projetos, basta seguir as instruções descritas nos respectivos arquivos ou pastas de cada um deles.
 
-## How to Use
-To run this notebook, simply open `Grades.ipynb` in a Jupyter notebook or a compatible environment like Google Colab. You'll need to ensure you have the necessary dependencies, such as PyTorch, installed to run the model and see predictions.
+## Contribuindo
 
-
-*Note: This project is part of my learning journey. I'm constantly improving my skills in machine learning, and this notebook represents one step forward in that process.*
- 
+Sinta-se à vontade para contribuir! Se você encontrar algum erro ou tiver sugestões de melhoria, abra uma issue ou envie um pull request.
